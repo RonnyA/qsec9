@@ -12,6 +12,17 @@ Provide a re-usable open source version of a Sorting Service, meant to be used i
 - Easy to get up an running on developer machine and in the cloud
 - Service should able to handle multiple requests at the same time
 
+## Microsoft Guidelines
+Follow Microsoft guidelines when building the API https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
+
+## Use Swagger/OpenAPI & Swashbuckle
+
+- Swagger https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-2.1
+- SwashBuckle https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.1&tabs=visual-studio
+
 ## Contribute
 
 Read the `CONTRIB.md` file and start to code
+
+# Source of Mission
+https://github.com/krist00fer/qsec/blob/master/missions/mission-009.md
