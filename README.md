@@ -19,6 +19,7 @@ Follow Microsoft guidelines when building the API https://github.com/Microsoft/a
 
 - Swagger https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-2.1
 - SwashBuckle https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-2.1&tabs=visual-studio
+- Routing https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/routing-in-aspnet-web-api
 
 ## Contribute
 
