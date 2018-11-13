@@ -3,6 +3,14 @@
 This document contains instructions for suggesting changes to 
 Mission 009 - The Sorting Service
 
+
+- Fork this repository
+- Check open issues
+- Create a feature branch with the ticket # of the bug you're working on 
+- Please update the ticket to let others know you're working on it. 
+- Before opening a pull request - please make sure you've merged the latest changes from upstream
+- If there's no tickets or open requests - please read the overall statements and open a new ticket you can work with
+
 ## Repo Organization
 
 Below is a description of how this repository is organized.
@@ -27,10 +35,3 @@ changes can cause bugs and can also introduce needless conflicts when merging.
 
 To suggest the changes in one of your branches, create a [pull
 request][github-pull-request] (aka PR) from your branch on GitHub. Do not forget to update the README.md file with your changes.
-
-## Local Workflows
-
-Start out by forking the repository. 
-
-We suggest you work with feature branches for each feature you work on, this so that you can easily return to a feature 
-you worked on if a pull-request is not directly accepted. 
