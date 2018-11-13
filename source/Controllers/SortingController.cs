@@ -11,5 +11,6 @@ namespace qsec9.Controllers
     [ApiController]
     public class SortingController : ControllerBase
     {
+
     }
 }
